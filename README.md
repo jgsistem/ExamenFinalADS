@@ -1,4 +1,3 @@
-# Banking API - Clean Architecture
-Banking API - Clean Architecture
-# BankingApiClean - Gustavo Osorio
-# 14/07/2018 -
+# Student Api - Clean Architecture
+# Examen Final - Gustavo Osorio
+# 19/07/2018 -
