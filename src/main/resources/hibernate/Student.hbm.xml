@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="examenfinal.student.domain.entity">
+	<class name="Student" table="alumnos">
+        <id name="id" column="alumno_id">
+            <generator class="native"/>
+        </id>
+        <property name="firstName" column="first_name"/>
+        <property name="lastName" column="last_name"/>
+        <property name="birthDate" column="regis_date"/>
+         <property name="documentNumber" column="document_number"/>
+        <property name="isactive" column="isactive"/>            
+        <property name="cellphone" column="cellphone"/>
+        <property name="email" column="email"/> 
+        <property name="id_tipo" column="id_tipo"/>        
+       
+    </class> 
+</hibernate-mapping>

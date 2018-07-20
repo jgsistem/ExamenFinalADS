@@ -1,0 +1,3 @@
+INSERT INTO alumnos(alumno_id, first_name, last_name,regis_date,document_number,isactive,cellphone,email,id_tipo)  VALUES(1, 'Gustavo', 'Osorio','2018-07-19','45664829',TRUE,'963980579','jgsistem@gmail.com',1);
+ INSERT INTO alumnos(alumno_id, first_name, last_name,regis_date,document_number,isactive,cellphone,email,id_tipo)  VALUES(2, 'Pedro', 'Rojas','2018-06-19','45664828',TRUE,'963980573','pedrorojas@gmail.com',2);
+ INSERT INTO alumnos(alumno_id, first_name, last_name,regis_date,document_number,isactive,cellphone,email,id_tipo)  VALUES(3, 'Maria', 'Gonzales','2018-05-19','45664827',TRUE,'963980574','marialuisa@gmail.com',3);
