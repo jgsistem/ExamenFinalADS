@@ -1,7 +1,7 @@
 ---
 applications:
 - name: my-JG17examenfinal
-  path: /home/travis/build/jgsistem/ExamenParcialGustavoOsorio/target/student-0.1.jar
+  path: /home/travis/build/jgsistem/ExamenParciaGustavoOsorio/target/student-0.1.jar
   memory: 1024M
   instances: 1
   random-route: true
